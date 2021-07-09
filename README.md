@@ -1,5 +1,5 @@
 # abi-decoder
-Nodejs and Javascript library for decoding data params and events from etherem transactions
+Angular library for decoding data params and events from etherem transactions
 
 # Install
 ```
@@ -8,10 +8,7 @@ bower install abi-decoder
 ```
 
 # Instantiate
-```js
-<script src="bower_components/abi-decoder/dist/abi-decoder.js"> // Javascript
-const abiDecoder = require('abi-decoder'); // NodeJS
-```
+import * as abiDecoder from 'abi-decoder-angular';
 
 # Add ABI's
 Need to pass the ABI's manually to the library in order to be able to decode params later

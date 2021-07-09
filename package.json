@@ -1,7 +1,7 @@
 {
-  "name": "abi-decoder",
-  "version": "2.3.0",
-  "description": "Nodejs and Javascript library for decoding data params and events from ethereum transactions\"",
+  "name": "abi-decoder-angular",
+  "version": "1.0.0",
+  "description": "Angular library for decoding data params and events from ethereum transactions\"",
   "main": "index.js",
   "scripts": {
     "pretest": "eslint --ignore-path .eslintignore .",
